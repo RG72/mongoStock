@@ -1,5 +1,6 @@
 # $Id: PKGBUILD 138045 2015-08-07 07:12:16Z fyan $
-# Maintainer: Felix Yan <felixonmars@archlinux.org>
+# Maintainer: Druzhinin Aleksey <alexey@yourtask.ru>
+# Contributor: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Sven-Hendrik Haase <sh@lutzhaase.com>
 # Contributor: Thomas Dziedzic < gostrc at gmail >
 # Contributor: Mathias Stearn <mathias@10gen.com>
